@@ -1,3 +1,7 @@
+.swiper {
+    width: 436px;
+    height: 255px;
+}
 /*---------------HEADER---------------*/
 .header-main-container {
     display: flex;
